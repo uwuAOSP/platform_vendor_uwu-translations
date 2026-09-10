@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="status_bar_double_tap_to_sleep_title">双击休眠</string>
+    <string name="status_bar_double_tap_to_sleep_summary">双击状态栏或锁屏界面以关闭屏幕</string>
+
+    <string name="live_display_summary">根据时间和环境条件优化屏幕，提高可读性并减少眼疲劳</string>
+    <string name="live_display_mode">显示模式</string>
+    <string name="live_display_color_temperature_title">色温</string>
+    <string name="live_display_color_temperature_summary">白天：<xliff:g id="day_temperature">%1$d</xliff:g>K　夜间：<xliff:g id="night_temperature">%2$d</xliff:g>K</string>
+    <string name="live_display_day">白天</string>
+    <string name="live_display_night">夜间</string>
+    <string name="live_display_outdoor_mode_title">自动户外模式</string>
+    <string name="live_display_outdoor_mode_summary">在强光下自动提高亮度和饱和度</string>
+    <string name="live_display_anti_flicker_title">防闪烁</string>
+    <string name="live_display_anti_flicker_summary">在低光照条件下减少闪烁并缓解眼疲劳。此功能可能降低色彩准确性并影响部分内容的显示效果。</string>
+    <string name="live_display_low_power_title">降低功耗</string>
+    <string name="live_display_low_power_summary">在不降低显示效果的情况下调整屏幕以降低功耗</string>
+    <string name="live_display_enhance_color_title">增强色彩</string>
+    <string name="live_display_enhance_color_summary">增强肤色、风景和其他图像的色彩表现</string>
+    <string name="live_display_color_profile_title">色彩配置</string>
+    <string name="live_display_color_profile_standard_title">标准</string>
+    <string name="live_display_color_profile_standard_summary">准确的色彩和明亮的白色</string>
+    <string name="live_display_color_profile_natural_title">自然</string>
+    <string name="live_display_color_profile_natural_summary">自然的色彩和肤色</string>
+    <string name="live_display_color_profile_dynamic_title">鲜艳</string>
+    <string name="live_display_color_profile_dynamic_summary">增强的色彩和明亮的白色</string>
+    <string name="live_display_color_profile_cinema_title">影院</string>
+    <string name="live_display_color_profile_cinema_summary">为视频准确还原色彩</string>
+    <string name="live_display_color_profile_astronomy_title">天文</string>
+    <string name="live_display_color_profile_astronomy_summary">使用深红色以保护夜视能力</string>
+    <string name="live_display_color_profile_photography_title">摄影</string>
+    <string name="live_display_color_profile_photography_summary">为照片准确还原色彩</string>
+    <string name="live_display_color_profile_basic_title">基本</string>
+    <string name="live_display_color_profile_basic_summary">使用未经校准的显示效果</string>
+    <string name="live_display_color_profile_adaptive_title">自适应</string>
+    <string name="live_display_color_profile_adaptive_summary">根据环境条件调整色彩</string>
+    <string name="live_display_color_profile_reading_title">阅读</string>
+    <string name="live_display_color_profile_reading_summary">使用更温暖的色彩以减轻眼疲劳</string>
+    <string name="live_display_color_profile_srgb_summary">准确匹配 sRGB 色域</string>
+    <string name="live_display_color_profile_dci_p3_summary">准确匹配 DCI-P3 色域</string>
+    <string name="live_display_reading_mode_title">阅读模式</string>
+    <string name="live_display_reading_mode_summary">适合长时间阅读的灰度模式</string>
+    <string name="color_calibration_title">色彩校准</string>
+    <string name="color_calibration_summary">校准屏幕色彩</string>
+
+    <string name="wake_when_plugged_or_unplugged_title">插拔电源时唤醒</string>
+    <string name="wake_when_plugged_or_unplugged_summary">连接或断开电源时唤醒屏幕</string>
+
+    <string name="refresh_rate_title">刷新率</string>
+    <string name="refresh_rate_summary_vrr_off">%d Hz</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz（自适应）</string>
+    <string name="refresh_rate_vrr_title">自适应刷新率</string>
+    <string name="refresh_rate_vrr_summary">屏幕空闲时自动降低刷新率以节省电量。在部分屏幕上可能引起闪烁或色彩偏移</string>
+    <string name="refresh_rate_footer">较高的刷新率可使显示更流畅，但会增加功耗</string>
+    <string name="keywords_refresh_rate">刷新率, 流畅, 峰值, 60hz, 90hz, 120hz, 144hz, 165hz</string>
+    <string name="battery_saver_refresh_rate_title">降低刷新率</string>
+    <string name="battery_saver_refresh_rate_summary">省电模式开启时使用 60 Hz 刷新率以节省电量</string>
+
+    <string name="icon_manager_title">状态栏图标</string>
+    <string name="icon_manager_summary">控制状态栏图标的显示</string>
+
+    <string name="play_application_detail_indication_summary">检查更新</string>
+    <string name="play_application_update_entry_title">应用更新</string>
+    <string name="software_update_banner_checking">正在检查更新…</string>
+    <string name="software_update_banner_up_to_date">您的设备已是最新状态</string>
+    <string name="software_update_banner_update_available">有可用更新</string>
+    <string name="software_update_can_be_updated_header">让您的设备更进一步</string>
+    <string name="software_update_entry_title">软件更新</string>
+    <string name="software_update_maintainer_title">维护者</string>
+    <string name="software_update_pending_update_summary">有待安装的更新</string>
+    <string name="software_update_settings_v2_purpose">集中查看并安装系统、Google Play 系统组件和应用更新，以保障设备安全和性能。</string>
+    <string name="software_update_up_to_date_header">您的设备已是最新状态</string>
+    <string name="software_update_up_to_specific_date_summary">已更新至 %1$s</string>
+    <string name="system_update_entry_title">系统更新</string>
+
+    <string name="about_phone_rom_version_label">uwuAOSP 版本</string>
+</resources>

@@ -1,0 +1,6 @@
+android_library {
+    name: "uwuSettingsTranslations",
+    resource_dirs: ["packages/apps/Settings/res"],
+    platform_apis: true,
+    visibility: ["//packages/apps/Settings"],
+}
