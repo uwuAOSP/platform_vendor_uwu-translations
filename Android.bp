@@ -1,6 +1,10 @@
 android_library {
     name: "uwuSettingsTranslations",
     resource_dirs: ["packages/apps/Settings/res"],
+    aaptflags: [
+        "--auto-add-overlay",
+        "--no-resource-removal",
+    ],
     platform_apis: true,
     visibility: ["//packages/apps/Settings"],
 }
