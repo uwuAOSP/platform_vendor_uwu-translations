@@ -8,3 +8,14 @@ android_library {
     platform_apis: true,
     visibility: ["//packages/apps/Settings"],
 }
+
+android_library {
+    name: "uwuSystemUITranslations",
+    resource_dirs: ["packages/SystemUI/res"],
+    aaptflags: [
+        "--auto-add-overlay",
+        "--no-resource-removal",
+    ],
+    platform_apis: true,
+    visibility: ["//frameworks/base/packages/SystemUI"],
+}
