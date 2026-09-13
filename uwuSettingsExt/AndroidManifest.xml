@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.uwuaosp.translations.settingsext.overlay">
+    <overlay
+        android:targetPackage="org.uwuaosp.settingsext"
+        android:targetName="uwuSettingsExtTranslations"
+        android:isStatic="true"
+        android:priority="100" />
+</manifest>

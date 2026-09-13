@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clipboard_policy_title">应用剪贴板权限</string>
+    <string name="clipboard_policy_apps_category">应用</string>
+    <string name="clipboard_policy_app_policy">剪贴板权限</string>
+    <string name="clipboard_policy_allow">允许</string>
+    <string name="clipboard_policy_ask">询问</string>
+    <string name="clipboard_policy_deny">不允许</string>
+    <string name="clipboard_policy_search_apps">搜索应用</string>
+    <string name="clipboard_policy_search_close">关闭搜索</string>
+    <string name="clipboard_policy_no_apps">未找到应用</string>
+    <string name="clipboard_policy_load_failed">无法加载应用列表</string>
+    <string name="clipboard_policy_retry">重试</string>
+    <string name="clipboard_policy_update_failed">无法更新剪贴板权限</string>
+</resources>
