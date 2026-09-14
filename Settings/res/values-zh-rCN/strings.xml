@@ -74,4 +74,7 @@
     <string name="system_update_entry_title">系统更新</string>
 
     <string name="about_phone_rom_version_label">uwuAOSP 版本</string>
+    <string name="app_volume">应用音量</string>
+    <string name="app_volume_title">控制特定应用的音量</string>
+    <string name="app_volume_summary">在音量面板中显示应用音量控制按钮</string>
 </resources>
